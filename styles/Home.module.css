@@ -1,5 +1,6 @@
 .container {
-  padding: 0 2rem;
+  /* padding: 0 2rem; */
+  padding: 0;
 }
 
 .main {
@@ -113,4 +114,31 @@
     width: 100%;
     flex-direction: column;
   }
+}
+
+.services {
+  background-color: #2983ea;
+  width: 100%;
+}
+
+.serviceContainer {
+  background-color: aquamarine;
+  padding: 1rem;
+  height: 100vh;
+}
+
+.serviceContainer h3 {
+  margin: 4px 0;
+}
+
+.serviceContainer p {
+  margin: 4px 0;
+}
+
+.rojo {
+  background-color: red;
+}
+
+.azul {
+  background-color: blue;
 }
